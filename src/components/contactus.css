@@ -1,0 +1,63 @@
+.contact-us-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 350px;
+    background-color: #f8f5de; 
+    font-family: 'Cantata One', serif; 
+    padding-left: 90px;
+    padding-right: 50px;
+    
+  }
+
+  .site-map h3 {
+    font-size: 2rem;
+    padding-bottom: 0px;
+  }
+   .site-map p {
+    padding: 0px;
+   }
+  
+  .site-map, .contact-info, .branding {
+    flex: 1; 
+    text-align: justify;
+  }
+  
+  .site-map ul {
+    font-size: larger;
+    list-style: none;
+    padding-bottom: 50px;
+    padding-left: 0;
+    margin: 10px 0;
+  }
+  
+  .site-map li {
+    margin: 5px 0;
+    
+  }
+
+  .contact-info h3 {
+    font-size: 2rem;
+    
+
+  }
+  
+  .contact-info p {
+    padding-bottom: 50px;
+    margin: 5px 0;
+    font-size: large;
+
+  }
+  
+  .branding img.logo {
+    width: 500px; 
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+
+  
+  .icon {
+    margin-right: 5px; 
+  }
+  
