@@ -5,7 +5,6 @@ function Login() {
       <div className="login-container">
       <div className="login-box">
         <div className="logo"></div>
-        {/* <img src="novelsnroses/public/Screenshot_2024-11-05_at_9.19.04_PM-removebg.png" alt="logo" className='loginlogo'/> */}
         <h2>Login with email</h2>
         <p>"Welcome back to Novels N Roses! Unlock a world of stories, thoughtful reviews, and a community of book lovers. Let your reading journey blossom!"</p>
         <form>
