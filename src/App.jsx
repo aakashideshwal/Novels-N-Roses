@@ -1,8 +1,10 @@
-import Login from './components/login'
-// import Signup from "./components/signup"
+import Navbar from "./components/navbar"
+
+
 function App() {
   return (
-<Login />
+
+<Navbar />
 
  )
 }

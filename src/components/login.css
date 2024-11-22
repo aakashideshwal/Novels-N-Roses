@@ -24,7 +24,7 @@
     width: 300px; 
     text-align: center;
   }  
-  
+
   /* .loginlogo {
     width: 100px;
     height: auto;
@@ -32,9 +32,8 @@
   } */
   
   .logo{
-    background-image: url(novelsnroses/public/Screenshot_2024-11-05_at_9.19.04_PM-removebg.png);
+    background-image: url('https://i.postimg.cc/Wb1J8y5n/Screenshot-2024-11-05-at-9-19-04-PM-removebg.png')
   }
-  
   .login-box h2 {
     margin-bottom: 20px;
     font-family: 'Cantana one', serif;

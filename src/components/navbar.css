@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantata+One&display=swap');
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F8F5DE;
+    padding: 20px 80px;
+    font-family: 'Cantana One', serif;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    height: 50px;
+}
+
+.navbar-left,
+.navbar-right {
+display: flex;
+gap: 150px;
+}
+.navbar-left a,
+.navbar-right a {
+    text-decoration: none;
+    color: black;
+    font-size: 28px;
+}
+.navbar-logo {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+}
+.logo {
+    max-height: 120px;
+    height: 100vh;
+    object-fit: contain;
+}
+
+
+
+
+
