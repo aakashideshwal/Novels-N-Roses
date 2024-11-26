@@ -3,7 +3,7 @@ function Footer() {
     return (
       <>
       <footer className="footer">
-        &copy; 2024 NOVELS N ROSES. All rights reserved.
+        &copy; {new Date().getFullYear()} NOVELS N ROSES. All rights reserved.
       </footer>
       </>  
     )

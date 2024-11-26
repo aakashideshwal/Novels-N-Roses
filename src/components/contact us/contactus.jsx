@@ -7,10 +7,10 @@ function Contactus() {
         <h3>Site map</h3>
         <p>All our pages</p>
         <ul>
-          <li>HOME</li>
-          <li>ABOUT US</li>
-          <li>CONTACT US</li>
-          <li>SIGN UP</li>
+          <li>Home</li>
+          <li>About us</li>
+          <li>Contact us</li>
+          <li>Sign up</li>
         </ul>
       </div>
 
@@ -20,7 +20,7 @@ function Contactus() {
           <span className="icon">📞</span> +91 27462843
         </p>
         <p>
-          <span className="icon">✉️</span> abc@gmail.com
+          <span className="icon">✉️</span> novelsnroses@gmail.com
         </p>
       </div>
 
