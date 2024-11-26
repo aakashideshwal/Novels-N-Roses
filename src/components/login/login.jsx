@@ -16,6 +16,7 @@ function Login() {
             type="password"
             id="password"
             placeholder="Password"
+            required
           />
 
           <button type="submit">Login</button>

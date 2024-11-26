@@ -12,29 +12,29 @@
   
   .sponsor-images {
     display: flex; 
-    justify-content: space-around; 
+    justify-content: center; 
     align-items: center; 
     flex-wrap: wrap; 
+    gap: 30px; /* Creates consistent space between the sponsor items */
   }
   
-  .sponsor-images .sponsor-item {
-    margin: 50px; 
-    text-align: center; 
+  .sponsor-images .sponsor-item:hover {
+    transform: scale(1.05);/* Slight zoom effect on hover */
   }
   
   .sponsor-images img {
-    width: 150px; 
-    height: 250px; 
+    width: 100%; /* Ensures the image takes up the full width of the sponsor item */
+    height: auto; /* Maintain aspect ratio */
+    max-height: 250px; /* Max height for consistency */
     border-radius: 8px; 
   }
 
-  .sponsor-text-box {
-    width: 200px; 
-    padding: 20px; 
+  .sponsor-text-box { 
+    padding: 15px; 
     background-color: #F8F5DE; 
-    border-radius: 8px; 
-    text-align: center; 
+    border-radius: 8px;  
     margin-top: 10px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for text box */
   }
   
   .sponsor-text-box p {
