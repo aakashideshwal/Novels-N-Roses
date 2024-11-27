@@ -27,7 +27,7 @@ function Contactus() {
       
       <div className="branding">
         <img
-          src="https://i.postimg.cc/Wb1J8y5n/Screenshot-2024-11-05-at-9-19-04-PM-removebg.png" 
+          src="https://i.postimg.cc/kXb0qJyG/Untitled.png" 
           alt="Novels N Roses"
           className="logo"
         />

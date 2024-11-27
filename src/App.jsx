@@ -14,6 +14,7 @@ function App() {
    <>
  <Navbar/>
  <Reviewpage/>
+ <Contactus/>
 
    
    </>

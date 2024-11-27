@@ -8,7 +8,7 @@ function Navbar() {
         <a href="#newbook">NEW BOOK</a>
     </div>
     <div className='navbar-logo'>
-        <img src="https://i.postimg.cc/Wb1J8y5n/Screenshot-2024-11-05-at-9-19-04-PM-removebg.png" alt="logo" className='logo'/>
+        <img src="https://i.postimg.cc/kXb0qJyG/Untitled.png" alt="logo" className='logo'/>
     </div>
     <div className='navbar-right'>
         <a href="#signup">SIGN UP</a>
