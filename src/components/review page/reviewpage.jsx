@@ -8,7 +8,7 @@ const Reviewpage = () => {
      
       <div className="book-details-box">
         <div className="book-image">
-          <img src="/path-to-book-image.jpg" alt="Book Cover" />
+          <img src="https://i.postimg.cc/rwztKHKD/2b6760353435b8ef1a3437385a381039.jpg" alt="Book Cover" />
         </div>
 
         
