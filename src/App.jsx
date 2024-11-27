@@ -8,11 +8,12 @@ import Footer from "./components/footer /footer.jsx"
 import Login from "./components/login/login.jsx"
 import Signup from "./components/signup/signup.jsx"
 import NewBook from "./components/new book form/newbook.jsx"
+import Reviewpage from "./components/review page/reviewpage.jsx"
 function App() {
   return (
    <>
-   
-<NewBook/>
+ <Navbar/>
+ <Reviewpage/>
 
    
    </>

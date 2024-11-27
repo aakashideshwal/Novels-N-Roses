@@ -44,6 +44,7 @@
 
 .login-box p {
   font-size: medium;
+  padding-bottom: 30px;
 }
 
 .login-box label {
@@ -55,7 +56,7 @@
 
 .login-box input {
   width: 100%;
-  height: 30px;
+  height: 20px;
   padding: 10px;
   margin-bottom: 15px;
   border: none;

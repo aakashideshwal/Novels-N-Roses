@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Cantata+One&display=swap");
+/* Overall Page */
+.book-review-page {
+    padding: 20px;
+    font-family: "Cantana one", serif;
+    background-color: #f9f9f9;
+  }
+  
+  /* Heading */
+  .page-heading {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  /* Main Book Details Section */
+  .book-details-box {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-bottom: 30px;
+  }
+  
+  .book-image img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .book-details {
+    flex: 1;
+  }
+  
+  .book-details h2,
+  .book-details p {
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #444;
+  }
+  
+  .book-description {
+    margin-top: 20px;
+    color: #555;
+  }
+  
+  /* Post Review Button */
+  .post-review-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  
+  .post-review-btn:hover {
+    background-color: #45a049;
+  }
+  
+  /* Reviews Section */
+  .reviews-section {
+    margin-top: 40px;
+  }
+  
+  .reviews-section h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  /* Review Carousel */
+  .review-carousel {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+    padding: 10px 0;
+  }
+  
+  .review-box {
+    flex: 0 0 auto;
+    min-width: 200px;
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
